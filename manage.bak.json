@@ -1,0 +1,15 @@
+{
+  "picBed": {
+    "github_fugurebed": {
+      "alias": "github_fugurebed",
+      "token": "![](https://raw.githubusercontent.com/Hubery999/Figurebed/main/img/20230629171857.png)",
+      "githubUsername": "Hubery999",
+      "proxy": "",
+      "paging": false,
+      "customUrl": "",
+      "picBedName": "github"
+    }
+  },
+  "settings": {},
+  "currentPicBed": "placeholder"
+}
